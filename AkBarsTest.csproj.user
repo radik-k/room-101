@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>F:\projects\VS2019\Jsk\AkBars\AkBarsTest\AkBarsTest\testFolder uploads/f5 AgAAAAAWuyxgAADLW4iw9yl2q0TZr4FK9AhCA9k</StartArguments>
-  </PropertyGroup>
-</Project>
